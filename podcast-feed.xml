@@ -6,7 +6,7 @@
     <language>zh</language>
     <description>一位 AI 工程师的审美升级之旅。从设计原理到视觉感知，用程序员听得懂的方式聊美学。</description>
     <lastBuildDate>Tue, 08 Apr 2026 00:00:00 +0800</lastBuildDate>
-    <atom:link href="https://raw.githubusercontent.com/LLM-X-Factorer/aesthetic-awakening-feed/main/podcast-feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://llm-x-factorer.github.io/aesthetic-awakening-feed/podcast-feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>LLM-X-Factorer</itunes:author>
     <itunes:summary>一位 AI 工程师的审美升级之旅。从设计原理到视觉感知，用程序员听得懂的方式聊美学。</itunes:summary>
     <itunes:image href="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/cover_final.png" />
