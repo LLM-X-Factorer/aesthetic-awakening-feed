@@ -1,104 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>美学觉醒</title>
     <link>https://github.com/LLM-X-Factorer/aesthetic-awakening</link>
     <language>zh</language>
     <description>一位 AI 工程师的审美升级之旅。从设计原理到视觉感知，用程序员听得懂的方式聊美学。</description>
-    <lastBuildDate>Tue, 08 Apr 2026 00:00:00 +0800</lastBuildDate>
-    <atom:link href="https://llm-x-factorer.github.io/aesthetic-awakening-feed/podcast-feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>LLM-X-Factorer</itunes:author>
     <itunes:summary>一位 AI 工程师的审美升级之旅。从设计原理到视觉感知，用程序员听得懂的方式聊美学。</itunes:summary>
     <itunes:image href="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/cover_final.png" />
     <itunes:category text="Arts" />
     <itunes:explicit>false</itunes:explicit>
-    <itunes:owner>
-      <itunes:name>LLM-X-Factorer</itunes:name>
-    </itunes:owner>
-    <itunes:type>episodic</itunes:type>
     <item>
-      <title>EP09: 街头摄影与「决定性瞬间」</title>
-      <description>街头摄影的灵魂：捕捉"决定性瞬间"的奥秘！
+      <title>EP01: 视觉审美基础</title>
+      <description>聊聊设计背后的秘密武器，让你的眼睛更舒服，信息更清晰。
 
-手机拍照时代，为什么有些照片能瞬间抓住人心？这期节目，我们一起探索法国摄影大师布列松提出的"决定性瞬间"——那个让所有元素完美融合，充满故事张力的魔法时刻。它不只是运气，更是摄影师对时间、直觉和构图的深刻理解与实践。
+为什么有些应用让你心情愉悦，有些却让你烦躁不安？本期节目，美美和小刘将带你走进视觉审美的基础世界，揭秘那些藏在设计背后的"秘密武器"。我们将从设计界经典的C.R.A.P.原则——对比、重复、对齐和亲密性入手，用生动的例子帮你理解这些看似专业的术语。
 
-我们将深入浅出地讲解如何像猎人一样预判，像猎豹一样反应，并运用几何美学构建画面。更重要的是，我们还会聊聊如何通过光影叙事和人文关怀，让你的照片不仅仅是好看，更是有温度、有故事的艺术品。从布列松到薇薇安·迈尔、何藩，再到罗伯特·弗兰克和森山大道，看看这个经典理念如何在传承与挑战中不断演变，启发我们找到自己的独特视角。
+我们还会深入探讨色彩的奥秘，告诉你配色不是堆砌颜色，而是明度和饱和度的艺术，并分享一个超实用的灰度图自检法。同时，你将了解到负空间（留白）如何成为设计中的"休止符"，以及视觉层级如何引导你的目光。
+
+最后，美美将揭露常见的"坏品味"设计陷阱，比如过度渐变、滥用投影和字体堆砌，帮助你避开雷区，让你的审美和作品更上一层楼。无论你是设计小白还是想提升日常审美，这期节目都将为你打开一扇全新的大门。
 
 本期亮点
-● "决定性瞬间"是什么？它为什么是街头摄影的灵魂？
-● 如何通过时间预判、直觉反应和几何构图，捕捉精彩瞬间？
-● 街头摄影的"心法"：光影叙事与人文关怀如何为照片注入灵魂？
-● 经典案例解析：布列松、薇薇安·迈尔、何藩等大师作品中的"决定性瞬间"。
-● 当代街头摄影如何传承与挑战"决定性瞬间"理念？
+● C.R.A.P.原则：对比、重复、对齐、亲密性，设计小白也能秒懂的四大基础。
+● 居中对齐是陷阱？90% 的情况下，左对齐才是文本排版的黄金法则。
+● 间距不是"空"，它是视觉世界的空行，默默传达着信息和关系。
+● 配色不是选好看的颜色，而是管理明度和饱和度，灰度图自检法超实用。
+● 负空间（留白）不浪费，它是设计自信的体现，更是引导注意力的秘密武器。
 
-拿起你的相机或手机，一起去街头发现属于你的"决定性瞬间"吧！</description>
-      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep09-street-photography.mp3" length="9354549" type="audio/mpeg" />
-      <guid isPermaLink="false">4caedbafa8975109f645d743cc67a948</guid>
-      <pubDate>Tue, 07 Apr 2026 14:06:18 +0800</pubDate>
-      <itunes:duration>00:12:59</itunes:duration>
-      <itunes:episode>9</itunes:episode>
+快来收听，解锁你的视觉审美超能力吧！</description>
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep01-visual-aesthetics-fundamentals.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">914f45fe3e425a6e27b16ad6f9648f35</guid>
+      <pubDate>Sun, 29 Mar 2026 16:39:32 +0800</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>EP08: 色彩分级 从纪实到电影感</title>
-      <description>色彩分级：让你的画面从真实到电影感！
+      <title>EP02: 游戏美学</title>
+      <description>聊聊游戏画面为什么好看，从像素风到音画同步的美学门道。
 
-你有没有想过，为什么有的纪录片画面真实到仿佛身临其境，而有的科幻大片却能营造出炫酷的未来感？这背后藏着一个强大的"魔法"——色彩分级。它不仅仅是让画面好看，更是一种艺术与技术结合的视觉叙事。
+为什么有些游戏画面不炫酷却让人着迷？本期节目，小刘和美美从游戏的"视觉语言"出发，逐一拆解像素风、手绘风和低多边形三种经典美术风格背后的设计哲学。
 
-本期节目，我们将带你深入了解色彩校正和色彩分级的奥秘。色彩校正就像是给画面打底，确保真实和平衡；而色彩分级则是在这个基础上，为画面"化妆"，赋予它独特的情绪和风格，让故事更有感染力。我们会聊到纪实风格如何追求"润物细无声"的真实感，以及电影感如何运用青橙色调、高对比度、特定色调甚至黑白与选择性色彩来讲述故事。
+你会发现，真正的游戏美学不是技术力的比拼，而是约束中的表达。从《蔚蓝》的 16x16 像素角色到《茶杯头》的逐帧手绘，好的风格选择本身就是一种美学态度。
 
-色彩分级不仅仅是技术操作，更是色彩心理学、生物条件反射和文化烙印的综合运用。理解这些，能让你在欣赏任何影像作品时，都能多留意色彩背后的故事和情绪。
+我们还深入聊了游戏 UI 设计的核心矛盾——信息可达 vs 沉浸感，以及音画同步如何成为"手感好"的隐形粘合剂。最后，用"审美一致性"串起所有讨论：风格统一的简陋画面，好过风格混乱的精美画面。
 
 本期亮点
-● 色彩校正与色彩分级的区别：一个追求真实，一个塑造风格
-● 纪实风格的"润物细无声"：如何通过调色还原真实
-● 电影感色彩分级的策略：青橙色调、高对比度与低饱和度、特定色调、黑白与选择性色彩
-● 色彩心理学如何影响观众情绪与叙事
-● 专业色彩分级的工作流程与核心工具
+● 像素风不是"低分辨率"，而是"极少信息量下的最大辨识度"，每个像素都是精心放置的。
+● 手绘风的灵魂在于笔触的不完美感——方向性、压力变化和媒介特征，加个纸纹理滤镜可不算。
+● 《死亡空间》的脊椎血量条：最高境界的"看不见的 UI"。
+● 音画同步精确到帧级别，延迟 2-3 帧就会让人觉得"手感不对"。
+● 审美一致性比精细度更重要——《传说之下》画面"粗糙"但没人觉得差。
 
-快来和我们一起，揭开色彩分级的神秘面纱，让你的影像作品充满灵魂和魅力吧！</description>
-      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep08-color-grading.mp3" length="8094019" type="audio/mpeg" />
-      <guid isPermaLink="false">ae5f8e5b62cfa2ca6c4d83af9b1a36f0</guid>
-      <pubDate>Sun, 05 Apr 2026 16:39:32 +0800</pubDate>
-      <itunes:duration>00:11:14</itunes:duration>
-      <itunes:episode>8</itunes:episode>
+想知道为什么约束反而能成就独特风格？来听这期就对了。
+</description>
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep02-game-aesthetics.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">cbd7204acfab57a3248eeed9a91e7862</guid>
+      <pubDate>Mon, 30 Mar 2026 16:39:32 +0800</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>EP07: 光是情绪的语言</title>
-      <description>光影不只是照明，它是最古老的情绪操控术。
+      <title>EP03: 音乐美学</title>
+      <description>为什么有些歌一听就爱上？拆解"好听"背后的美学密码。
 
-你有没有注意过，为什么咖啡馆的暖光让人放松，而医院的白光让人紧张？光线的色彩、方向、强度，无时无刻不在塑造你的情绪体验。本期节目，我们从光的色彩心理学讲起，拆解暖色调和冷色调如何在电影、建筑和日常空间中制造截然不同的情感氛围。
+本期节目从旋律、和声、节奏三大要素入手，揭示"好听"的本质其实是"预期与意外的精妙平衡"。用久石让的《Summer》和 Radiohead 的《Creep》做对比，你会发现好旋律不是越复杂越好，而是"约束中的发明"。
 
-我们还深入聊了伦勃朗光、硬光与柔光的区别——为什么侧光让人脸充满故事感，而正面平光让一切显得平淡。从《月光男孩》的金色黄昏到《银翼杀手2049》的霓虹冷光，光线如何成为导演手中最沉默却最有力的叙事工具。
+我们深入聊了"紧张与释放"这个核心审美机制——从贝多芬的命运动机到电子音乐的 build-up 与 drop，再到 Adele 副歌里那个刻意不完全释放的设计。好的音乐需要"呼吸"，全程高潮等于没有高潮。
 
-最后，我们把光影美学带回日常：你的办公桌灯光、手机屏幕亮度、甚至窗帘的选择，都在无声地影响你的情绪和效率。
+还有游戏音乐的自适应设计：《旷野之息》用减法让音乐成为风景，《Hades》用加法让音乐成为战斗催化剂。最后聊到 AI 音乐生成的提示词技巧和常见的音乐审美陷阱。
 
 本期亮点
-● 暖光 vs 冷光：不只是色温数字，而是情绪的开关
-● 伦勃朗光的秘密：45度侧光为什么能让平凡面孔变得深邃
-● 硬光制造戏剧感，柔光营造亲密感——布光就是情绪设计
-● 自然光叙事：黄金时段和蓝色时刻，大自然的免费灯光师
-● 日常光影实践：从台灯到窗帘，用光线提升生活质量
+● "好听"的本质：预期建立模式，意外制造惊喜，两者的来回拉扯让人欲罢不能。
+● 紧张与释放：贝多芬让释放来得比预期更晚，多巴胺冲击因此更强烈。
+● 游戏音乐不是循环 BGM，而是实时响应玩家行为的精密交互系统。
+● AI 音乐提示词核心原则：具体但不过度约束，先定风格情绪，再细化乐器音色。
+● 音乐审美陷阱：把"复杂"等同于"好"、忽视混音空间感、只听单一情绪。
 
-下次走进一个空间，先抬头看看灯光——你会发现一个全新的世界。</description>
-      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep07-light-as-emotional-language.mp3" length="11650739" type="audio/mpeg" />
-      <guid isPermaLink="false">5713304b3262809b6ab646bed47a650b</guid>
-      <pubDate>Sat, 04 Apr 2026 16:39:32 +0800</pubDate>
-      <itunes:duration>00:16:10</itunes:duration>
-      <itunes:episode>7</itunes:episode>
+打开耳朵，重新认识你每天都在听的音乐吧。
+</description>
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep03-music-aesthetics.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">dac728f2656df82f279c64c2ce7e0d6b</guid>
+      <pubDate>Tue, 31 Mar 2026 16:39:32 +0800</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>EP06: 构图的权力 三分法之外的视觉控制</title>
-      <description>本期聊聊构图的深层力量，如何用视觉元素讲故事、控情绪。
+      <title>EP04: UI/UX 视觉设计</title>
+      <description>从 Apple 到 Vercel，拆解顶级产品背后的 UI/UX 视觉设计哲学。
 
-构图远不止三分法那么简单，它是一门通过视觉元素引导观众视线、传达情感和故事的艺术。它决定了信息如何被感知，情感如何</description>
-      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep06-composition-power.mp3" length="8654401" type="audio/mpeg" />
-      <guid isPermaLink="false">4ced894873c5ff117e5f998b0dade5f5</guid>
-      <pubDate>Fri, 03 Apr 2026 16:39:32 +0800</pubDate>
-      <itunes:duration>00:12:01</itunes:duration>
-      <itunes:episode>6</itunes:episode>
+本期节目从三大设计哲学讲起：Apple 的"内容即界面"追求无感体验，Google Material Design 从"数字纸张"进化到"个人表达"，Vercel 用"减法美学"证明开发者工具也能极简且美观。
+
+我们深入聊了字体排版这个最容易被忽视的设计维度——字重不只有粗细两种，行高是决定阅读舒适度的隐形参数，字号越大行高比例反而越小。还有微动效如何让产品"有生命感"，以及深色模式的三大设计陷阱。
+
+针对中文界面的独特挑战，我们也给出了实用建议：中文行高要比英文大 0.1-0.2 倍，每行控制在 25-35 字符，字体文件优先用系统字体栈。最后附送一份"30 分钟快速提升界面美感"的行动指南。
+
+本期亮点
+● 三大设计哲学对比：Apple 退让、Google 表达、Vercel 减法，各有各的美学逻辑。
+● 深色模式三大陷阱：纯黑背景、直接反转颜色、层次关系混乱。
+● 微动效的黄金区间：150-400 毫秒，有明确目的，少而精。
+● 中文 UI 的视觉密度比英文高，需要更大的行高和段间距来"呼吸"。
+● 30 分钟速效指南：间距用 4 倍数、颜色减到 7 个以内、行高 1.6、三个字重、对比度 4.5:1。
+
+无论你是设计师还是工程师，这期都能帮你把界面质量提升一个档次。
+</description>
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep04-ui-ux-visual-design.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">a846ebc051ad56d13f52a1b212e04ae7</guid>
+      <pubDate>Wed, 01 Apr 2026 16:39:32 +0800</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -119,111 +131,122 @@
 ● 跨领域审美迁移：发现不同领域（视觉、音乐、游戏）共通的美学原则，实现举一反三。
 
 准备好刷新你对"美"的认知了吗？快来和我们一起，开启你的审美训练之旅吧！</description>
-      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep05-aesthetic-training-methodology.mp3" length="7903586" type="audio/mpeg" />
-      <guid isPermaLink="false">faa98edebe551a29e314d20f8a24c2bf</guid>
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep05-aesthetic-training-methodology.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">ab95556e9803dce289ac16b409dc9830</guid>
       <pubDate>Thu, 02 Apr 2026 16:39:32 +0800</pubDate>
-      <itunes:duration>00:10:58</itunes:duration>
+      <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>EP04: UI/UX 视觉设计</title>
-      <description>从 Apple 到 Vercel，拆解顶级产品背后的 UI/UX 视觉设计哲学。
+      <title>EP06: 构图的权力 三分法之外的视觉控制</title>
+      <description>本期聊聊构图的深层力量，如何用视觉元素讲故事、控情绪。
 
-本期节目从三大设计哲学讲起：Apple 的"内容即界面"追求无感体验，Google Material Design 从"数字纸张"进化到"个人表达"，Vercel 用"减法美学"证明开发者工具也能极简且美观。
-
-我们深入聊了字体排版这个最容易被忽视的设计维度——字重不只有粗细两种，行高是决定阅读舒适度的隐形参数，字号越大行高比例反而越小。还有微动效如何让产品"有生命感"，以及深色模式的三大设计陷阱。
-
-针对中文界面的独特挑战，我们也给出了实用建议：中文行高要比英文大 0.1-0.2 倍，每行控制在 25-35 字符，字体文件优先用系统字体栈。最后附送一份"30 分钟快速提升界面美感"的行动指南。
-
-本期亮点
-● 三大设计哲学对比：Apple 退让、Google 表达、Vercel 减法，各有各的美学逻辑。
-● 深色模式三大陷阱：纯黑背景、直接反转颜色、层次关系混乱。
-● 微动效的黄金区间：150-400 毫秒，有明确目的，少而精。
-● 中文 UI 的视觉密度比英文高，需要更大的行高和段间距来"呼吸"。
-● 30 分钟速效指南：间距用 4 倍数、颜色减到 7 个以内、行高 1.6、三个字重、对比度 4.5:1。
-
-无论你是设计师还是工程师，这期都能帮你把界面质量提升一个档次。</description>
-      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep04-ui-ux-visual-design.mp3" length="10053005" type="audio/mpeg" />
-      <guid isPermaLink="false">45c532240b895bb9e7a1c9f5ed0f79a0</guid>
-      <pubDate>Wed, 01 Apr 2026 16:39:32 +0800</pubDate>
-      <itunes:duration>00:13:57</itunes:duration>
-      <itunes:episode>4</itunes:episode>
+构图远不止三分法那么简单，它是一门通过视觉元素引导观众视线、传达情感和故事的艺术。它决定了信息如何被感知，情感如何</description>
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep06-composition-power.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">a2794130af952047174508b49742d3b7</guid>
+      <pubDate>Fri, 03 Apr 2026 16:39:32 +0800</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>EP03: 音乐美学</title>
-      <description>为什么有些歌一听就爱上？拆解"好听"背后的美学密码。
+      <title>EP07: 光是情绪的语言</title>
+      <description>光影不只是照明，它是最古老的情绪操控术。
 
-本期节目从旋律、和声、节奏三大要素入手，揭示"好听"的本质其实是"预期与意外的精妙平衡"。用久石让的《Summer》和 Radiohead 的《Creep》做对比，你会发现好旋律不是越复杂越好，而是"约束中的发明"。
+你有没有注意过，为什么咖啡馆的暖光让人放松，而医院的白光让人紧张？光线的色彩、方向、强度，无时无刻不在塑造你的情绪体验。本期节目，我们从光的色彩心理学讲起，拆解暖色调和冷色调如何在电影、建筑和日常空间中制造截然不同的情感氛围。
 
-我们深入聊了"紧张与释放"这个核心审美机制——从贝多芬的命运动机到电子音乐的 build-up 与 drop，再到 Adele 副歌里那个刻意不完全释放的设计。好的音乐需要"呼吸"，全程高潮等于没有高潮。
+我们还深入聊了伦勃朗光、硬光与柔光的区别——为什么侧光让人脸充满故事感，而正面平光让一切显得平淡。从《月光男孩》的金色黄昏到《银翼杀手2049》的霓虹冷光，光线如何成为导演手中最沉默却最有力的叙事工具。
 
-还有游戏音乐的自适应设计：《旷野之息》用减法让音乐成为风景，《Hades》用加法让音乐成为战斗催化剂。最后聊到 AI 音乐生成的提示词技巧和常见的音乐审美陷阱。
+最后，我们把光影美学带回日常：你的办公桌灯光、手机屏幕亮度、甚至窗帘的选择，都在无声地影响你的情绪和效率。
 
 本期亮点
-● "好听"的本质：预期建立模式，意外制造惊喜，两者的来回拉扯让人欲罢不能。
-● 紧张与释放：贝多芬让释放来得比预期更晚，多巴胺冲击因此更强烈。
-● 游戏音乐不是循环 BGM，而是实时响应玩家行为的精密交互系统。
-● AI 音乐提示词核心原则：具体但不过度约束，先定风格情绪，再细化乐器音色。
-● 音乐审美陷阱：把"复杂"等同于"好"、忽视混音空间感、只听单一情绪。
+● 暖光 vs 冷光：不只是色温数字，而是情绪的开关
+● 伦勃朗光的秘密：45度侧光为什么能让平凡面孔变得深邃
+● 硬光制造戏剧感，柔光营造亲密感——布光就是情绪设计
+● 自然光叙事：黄金时段和蓝色时刻，大自然的免费灯光师
+● 日常光影实践：从台灯到窗帘，用光线提升生活质量
 
-打开耳朵，重新认识你每天都在听的音乐吧。</description>
-      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep03-music-aesthetics.mp3" length="11527197" type="audio/mpeg" />
-      <guid isPermaLink="false">56be09c191aca1103b58a58c43523ac4</guid>
-      <pubDate>Tue, 31 Mar 2026 16:39:32 +0800</pubDate>
-      <itunes:duration>00:16:00</itunes:duration>
-      <itunes:episode>3</itunes:episode>
+下次走进一个空间，先抬头看看灯光——你会发现一个全新的世界。</description>
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep07-light-as-emotional-language.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">c0e535ec5e6ab410f64f5f44da42babb</guid>
+      <pubDate>Sat, 04 Apr 2026 16:39:32 +0800</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>EP02: 游戏美学</title>
-      <description>聊聊游戏画面为什么好看，从像素风到音画同步的美学门道。
+      <title>EP08: 色彩分级 从纪实到电影感</title>
+      <description>色彩分级：让你的画面从真实到电影感！
 
-为什么有些游戏画面不炫酷却让人着迷？本期节目，小刘和美美从游戏的"视觉语言"出发，逐一拆解像素风、手绘风和低多边形三种经典美术风格背后的设计哲学。
+你有没有想过，为什么有的纪录片画面真实到仿佛身临其境，而有的科幻大片却能营造出炫酷的未来感？这背后藏着一个强大的"魔法"——色彩分级。它不仅仅是让画面好看，更是一种艺术与技术结合的视觉叙事。
 
-你会发现，真正的游戏美学不是技术力的比拼，而是约束中的表达。从《蔚蓝》的 16x16 像素角色到《茶杯头》的逐帧手绘，好的风格选择本身就是一种美学态度。
+本期节目，我们将带你深入了解色彩校正和色彩分级的奥秘。色彩校正就像是给画面打底，确保真实和平衡；而色彩分级则是在这个基础上，为画面"化妆"，赋予它独特的情绪和风格，让故事更有感染力。我们会聊到纪实风格如何追求"润物细无声"的真实感，以及电影感如何运用青橙色调、高对比度、特定色调甚至黑白与选择性色彩来讲述故事。
 
-我们还深入聊了游戏 UI 设计的核心矛盾——信息可达 vs 沉浸感，以及音画同步如何成为"手感好"的隐形粘合剂。最后，用"审美一致性"串起所有讨论：风格统一的简陋画面，好过风格混乱的精美画面。
+色彩分级不仅仅是技术操作，更是色彩心理学、生物条件反射和文化烙印的综合运用。理解这些，能让你在欣赏任何影像作品时，都能多留意色彩背后的故事和情绪。
 
 本期亮点
-● 像素风不是"低分辨率"，而是"极少信息量下的最大辨识度"，每个像素都是精心放置的。
-● 手绘风的灵魂在于笔触的不完美感——方向性、压力变化和媒介特征，加个纸纹理滤镜可不算。
-● 《死亡空间》的脊椎血量条：最高境界的"看不见的 UI"。
-● 音画同步精确到帧级别，延迟 2-3 帧就会让人觉得"手感不对"。
-● 审美一致性比精细度更重要——《传说之下》画面"粗糙"但没人觉得差。
+● 色彩校正与色彩分级的区别：一个追求真实，一个塑造风格
+● 纪实风格的"润物细无声"：如何通过调色还原真实
+● 电影感色彩分级的策略：青橙色调、高对比度与低饱和度、特定色调、黑白与选择性色彩
+● 色彩心理学如何影响观众情绪与叙事
+● 专业色彩分级的工作流程与核心工具
 
-想知道为什么约束反而能成就独特风格？来听这期就对了。</description>
-      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep02-game-aesthetics.mp3" length="9223139" type="audio/mpeg" />
-      <guid isPermaLink="false">9933d434ec79d9d9c8d5f9169b4a0b49</guid>
-      <pubDate>Mon, 30 Mar 2026 16:39:32 +0800</pubDate>
-      <itunes:duration>00:12:48</itunes:duration>
-      <itunes:episode>2</itunes:episode>
+快来和我们一起，揭开色彩分级的神秘面纱，让你的影像作品充满灵魂和魅力吧！</description>
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep08-color-grading.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">d443cd3b19a690bf7907bc7c7d808bf5</guid>
+      <pubDate>Sun, 05 Apr 2026 16:39:32 +0800</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>EP01: 视觉审美基础</title>
-      <description>聊聊设计背后的秘密武器，让你的眼睛更舒服，信息更清晰。
+      <title>EP09: 街头摄影与「决定性瞬间」</title>
+      <description>街头摄影的灵魂：捕捉"决定性瞬间"的奥秘！
 
-为什么有些应用让你心情愉悦，有些却让你烦躁不安？本期节目，美美和小刘将带你走进视觉审美的基础世界，揭秘那些藏在设计背后的"秘密武器"。我们将从设计界经典的C.R.A.P.原则——对比、重复、对齐和亲密性入手，用生动的例子帮你理解这些看似专业的术语。
+手机拍照时代，为什么有些照片能瞬间抓住人心？这期节目，我们一起探索法国摄影大师布列松提出的"决定性瞬间"——那个让所有元素完美融合，充满故事张力的魔法时刻。它不只是运气，更是摄影师对时间、直觉和构图的深刻理解与实践。
 
-我们还会深入探讨色彩的奥秘，告诉你配色不是堆砌颜色，而是明度和饱和度的艺术，并分享一个超实用的灰度图自检法。同时，你将了解到负空间（留白）如何成为设计中的"休止符"，以及视觉层级如何引导你的目光。
-
-最后，美美将揭露常见的"坏品味"设计陷阱，比如过度渐变、滥用投影和字体堆砌，帮助你避开雷区，让你的审美和作品更上一层楼。无论你是设计小白还是想提升日常审美，这期节目都将为你打开一扇全新的大门。
+我们将深入浅出地讲解如何像猎人一样预判，像猎豹一样反应，并运用几何美学构建画面。更重要的是，我们还会聊聊如何通过光影叙事和人文关怀，让你的照片不仅仅是好看，更是有温度、有故事的艺术品。从布列松到薇薇安·迈尔、何藩，再到罗伯特·弗兰克和森山大道，看看这个经典理念如何在传承与挑战中不断演变，启发我们找到自己的独特视角。
 
 本期亮点
-● C.R.A.P.原则：对比、重复、对齐、亲密性，设计小白也能秒懂的四大基础。
-● 居中对齐是陷阱？90% 的情况下，左对齐才是文本排版的黄金法则。
-● 间距不是"空"，它是视觉世界的空行，默默传达着信息和关系。
-● 配色不是选好看的颜色，而是管理明度和饱和度，灰度图自检法超实用。
-● 负空间（留白）不浪费，它是设计自信的体现，更是引导注意力的秘密武器。
+● "决定性瞬间"是什么？它为什么是街头摄影的灵魂？
+● 如何通过时间预判、直觉反应和几何构图，捕捉精彩瞬间？
+● 街头摄影的"心法"：光影叙事与人文关怀如何为照片注入灵魂？
+● 经典案例解析：布列松、薇薇安·迈尔、何藩等大师作品中的"决定性瞬间"。
+● 当代街头摄影如何传承与挑战"决定性瞬间"理念？
 
-快来收听，解锁你的视觉审美超能力吧！</description>
-      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep01-visual-aesthetics-fundamentals.mp3" length="14736871" type="audio/mpeg" />
-      <guid isPermaLink="false">2c27aa20ccc77d44aab7dd818c5eefdb</guid>
-      <pubDate>Sun, 29 Mar 2026 16:39:32 +0800</pubDate>
-      <itunes:duration>00:20:28</itunes:duration>
-      <itunes:episode>1</itunes:episode>
+拿起你的相机或手机，一起去街头发现属于你的"决定性瞬间"吧！</description>
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep09-street-photography.mp3" length="4096" type="audio/mpeg" />
+      <guid isPermaLink="false">e0020e5f6167bb53d9e956a8f77e6869</guid>
+      <pubDate>Tue, 07 Apr 2026 14:06:18 +0800</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>EP10: 负空间与极简摄影</title>
+      <description>本期标题：EP10: 负空间与极简摄影
+
+你是不是也觉得有些设计或照片，一眼看过去就特别舒服、有重点？这背后藏着一种强大的美学理念——“少即是多”。
+
+本期节目，我们和美美一起深入探讨负空间和极简摄影的奥秘。你会发现，画面中那些看似空白的地方，其实是构图的强大工具，能让主体呼吸，让信息更清晰。而极简摄影，不只是拍照技巧，更是一种生活态度，一种在复杂中提炼本质的哲学。
+
+从Google主页到FedEx标志，从代码空行到建筑大师作品，负空间和极简主义的智慧无处不在。它们就像数据结构和算法，相互依存，共同创造出既美观又富有深度的作品。
+
+本期亮点
+● 负空间：不是“空”，而是“有意义的空”，能简化构图、增强清晰度、创造平衡感。
+● 经典案例：Google主页、FedEx标志如何巧妙运用负空间。
+● 极简摄影：在摄影中实践“少即是多”，聚焦线条、形状、色彩、光影。
+● 极简与技术：精简代码、MVP与极简摄影的共通之处。
+● 负空间与极简摄影的关系：骨架与灵魂，数据结构与算法的完美结合。
+● 实践指南：如何运用“减法”思维，从观察、背景、比例、景深和主体入手。
+
+快来收听，一起培养“减法”的眼睛，发现生活中的极简之美吧！</description>
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep10.mp3" length="7538427" type="audio/mpeg" />
+      <guid isPermaLink="false">a74a7268968094c2249406f03c36078e</guid>
+      <pubDate>Sun, 12 Apr 2026 10:02:30 +0800</pubDate>
+      <itunes:duration>00:10:28</itunes:duration>
+      <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
