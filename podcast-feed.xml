@@ -242,11 +242,31 @@
 ● 实践指南：如何运用“减法”思维，从观察、背景、比例、景深和主体入手。
 
 快来收听，一起培养“减法”的眼睛，发现生活中的极简之美吧！</description>
-      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep10.mp3" length="7538427" type="audio/mpeg" />
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep10.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">a74a7268968094c2249406f03c36078e</guid>
       <pubDate>Sun, 12 Apr 2026 10:02:30 +0800</pubDate>
-      <itunes:duration>00:10:28</itunes:duration>
+      <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>EP11: 手机摄影的美学上限在哪</title>
+      <description>手机拍照，真的能拍出艺术大片吗？
+
+手机拍照越来越厉害，甚至能和专业相机媲美，这背后有什么秘密？原来是“计算摄影”和AI，让手机不再只是记录工具，而是能“创造”画面的智能之眼，大大降低了专业级影像的门槛，让普通人也能轻松拍出专业效果。
+
+手机摄影最大的魅力在于它的即时性，能捕捉生活中的诗意瞬间，形成独特的“生活流”美学。即使是方寸屏幕，也能通过巧妙的构图、光影和色彩运用，拍出有深度和故事感的作品，将日常化为艺术。
+
+后期创作不再是“作弊”，而是二次创作和艺术表达的飞跃。但最终，手机摄影的美学上限，还是取决于创作者的艺术视野和对美的感知，手机只是你手中的一支“画笔”，而你才是作品的灵魂。
+
+本期亮点
+● 揭秘“计算摄影”：手机如何用AI和算法，拍出超越物理限制的专业级大片？
+●</description>
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep11.mp3" length="10110483" type="audio/mpeg" />
+      <guid isPermaLink="false">13df246dc3aaa4f8809023831f325fa3</guid>
+      <pubDate>Tue, 14 Apr 2026 14:28:07 +0800</pubDate>
+      <itunes:duration>00:14:02</itunes:duration>
+      <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
