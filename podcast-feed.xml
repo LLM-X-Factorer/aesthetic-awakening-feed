@@ -262,11 +262,36 @@
 本期亮点
 ● 揭秘“计算摄影”：手机如何用AI和算法，拍出超越物理限制的专业级大片？
 ●</description>
-      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep11.mp3" length="10110483" type="audio/mpeg" />
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep11.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">13df246dc3aaa4f8809023831f325fa3</guid>
       <pubDate>Tue, 14 Apr 2026 14:28:07 +0800</pubDate>
-      <itunes:duration>00:14:02</itunes:duration>
+      <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>EP12: 人像摄影中的美学偏见</title>
+      <description>人像摄影中的美学偏见，你中招了吗？
+
+你有没有发现，我们拍出来的照片，总有点千篇一律的“标准美”？这背后藏着一个有趣又深刻的话题——美学偏见。从表情、构图到后期，甚至AI生成图像，这些无形的滤镜都在潜移默化地影响着我们对美的认知。
+
+这期节目，我们和小刘一起，深入探讨人像摄影中那些我们习以为常的美学偏见。为什么我们总喜欢让人“笑一个”？为什么构图总爱居中或套用三分法？以及社交媒体上“风格重于内容”的审美化趋势，又如何影响着我们对“美”的定义？
+
+更重要的是，在AI时代，我们该如何培养批判性审美，跳出刻板印象，用AI工具探索更多样、更真实的表达？来听听我们如何打破这些无形的限制，发现和创造人像摄影中无限的可能性。
+
+本期亮点
+● 微笑偏好：为什么我们总觉得笑脸更受欢迎？
+● 构图偏见：左脸偏好和内向偏好，如何影响你的构图？
+● 审美化摄影：当风格重于内容，我们失去了什么？
+● AI与偏见：AI如何强化或打破主流审美？
+● 审美自觉：如何培养批判性审美，驾驭AI进行多元表达？
+
+准备好刷新你对“美”的认知了吗？快来收听吧！</description>
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep12.mp3" length="9973200" type="audio/mpeg" />
+      <guid isPermaLink="false">75aa50036eeb408232b79a0f2981723a</guid>
+      <pubDate>Fri, 17 Apr 2026 14:30:33 +0800</pubDate>
+      <itunes:duration>00:13:51</itunes:duration>
+      <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
