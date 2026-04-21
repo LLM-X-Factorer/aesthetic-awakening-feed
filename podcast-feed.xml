@@ -287,11 +287,36 @@
 ● 审美自觉：如何培养批判性审美，驾驭AI进行多元表达？
 
 准备好刷新你对“美”的认知了吗？快来收听吧！</description>
-      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep12.mp3" length="9973200" type="audio/mpeg" />
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep12.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">75aa50036eeb408232b79a0f2981723a</guid>
       <pubDate>Fri, 17 Apr 2026 14:30:33 +0800</pubDate>
-      <itunes:duration>00:13:51</itunes:duration>
+      <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>EP13: 策展思维——从单张到组图叙事</title>
+      <description>EP13: 策展思维——从单张到组图叙事
+
+视觉信息爆炸的时代，如何让你的内容不再转瞬即逝？
+
+这期节目我们聊聊“策展思维”。它可不是博物馆策展人的专属，而是能把零散的视觉元素组织成有意义整体的策略。无论你是技术人、产品经理，还是普通内容创作者，掌握策展思维都能让你的信息传达更高效，情感连接更深刻，甚至能应用到产品设计、内容呈现和个人品牌构建中。
+
+我们会深入探讨策展思维如何帮助你掌控意义、附加叙事价值、创造沉浸式体验。从罗伯特·弗兰克的《美国人》到《小王子75周年特展》，我们将通过丰富的案例，带你理解如何从“珍珠”到“项链”，让你的视觉内容不仅仅是“美”，更是“有效”和“有意义”。
+
+本期亮点
+● 为什么在视觉信息爆炸的时代，策展思维如此重要？
+● 策展思维如何将单张照片串联成有故事的组图叙事？
+● 好的策展案例和常见误区，让你避开“堆砌照片”的陷阱
+● 如何通过语境化，赋予图像全新的意义，甚至挑战固有认知？
+● 形式美学与空间叙事，如何让你的视觉故事更具感染力？
+
+快来收听，一起提升你的视觉叙事能力，让你的内容在信息洪流中脱颖而出吧！</description>
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep13.mp3" length="8925659" type="audio/mpeg" />
+      <guid isPermaLink="false">17438eb5f2aff1b08a00317c79dda1c6</guid>
+      <pubDate>Tue, 21 Apr 2026 14:30:04 +0800</pubDate>
+      <itunes:duration>00:12:23</itunes:duration>
+      <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
