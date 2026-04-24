@@ -312,11 +312,23 @@
 ● 形式美学与空间叙事，如何让你的视觉故事更具感染力？
 
 快来收听，一起提升你的视觉叙事能力，让你的内容在信息洪流中脱颖而出吧！</description>
-      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep13.mp3" length="8925659" type="audio/mpeg" />
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep13.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">17438eb5f2aff1b08a00317c79dda1c6</guid>
       <pubDate>Tue, 21 Apr 2026 14:30:04 +0800</pubDate>
-      <itunes:duration>00:12:23</itunes:duration>
+      <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>EP14: 电影构图——从韦斯·安德森的对称说起</title>
+      <description>韦斯·安德森的对称美学，为何既治愈又脆弱？
+
+你有没有发现，有些电影画面特别“整齐”，像韦斯·安德森那样充满童话感，有些却像库布里克那样让人觉得压抑？这</description>
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep14.mp3" length="9722361" type="audio/mpeg" />
+      <guid isPermaLink="false">181e1e013cd2b7f31f3fb79f61e273e9</guid>
+      <pubDate>Fri, 24 Apr 2026 14:35:53 +0800</pubDate>
+      <itunes:duration>00:13:30</itunes:duration>
+      <itunes:episode>14</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
