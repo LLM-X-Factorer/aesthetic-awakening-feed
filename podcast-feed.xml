@@ -349,11 +349,34 @@
 ● 运镜的“为什么”比“怎么”更重要：避免炫技，服务叙事
 
 听完这期，你再看电影，一定会发现更多以前没注意到的精彩细节！</description>
-      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep15.mp3" length="12700642" type="audio/mpeg" />
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep15.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">ea8081b57a0e2f735532579dc2616ba3</guid>
       <pubDate>Tue, 28 Apr 2026 16:05:15 +0800</pubDate>
-      <itunes:duration>00:17:38</itunes:duration>
+      <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>EP16: 剪辑节奏——看不见的美学</title>
+      <description>剪辑节奏：看不见却能影响你情绪的美学！
+
+你有没有发现，有些影片让你沉浸其中，有些却让你感到拖沓或出戏？这背后其实藏着一门“看不见的美学”——剪辑节奏。它就像影片的心跳和呼吸，无时无刻不在影响着我们的情绪和注意力。
+
+本期节目，我们将带你深入探索剪辑节奏的奥秘。从库勒肖夫效应到蒙太奇理论，你会发现剪辑不只是简单拼接，它更是一种创造，通过镜头的组合和排列来引导你的心理预期和情感走向。我们还会聊聊快慢节奏的艺术，以及匹配剪辑、跳切、J-Cut和L-Cut这些巧妙的剪辑技巧，它们如何默默提升你的观影体验。
+
+本期亮点
+● 剪辑节奏：影片的心跳和呼吸，看不见的美学
+● 库勒肖夫效应：镜头并置如何创造新的意义
+● 蒙太奇理论：镜头碰撞激发观众智力与情感
+● 快慢节奏的艺术：如何根据故事需求巧妙切换
+● 剪辑点技巧：匹配剪辑、跳切、J-Cut和L-Cut的妙用
+
+快来和我们一起，揭开剪辑节奏的神秘面纱，让你的观影体验从此大不同！</description>
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep16.mp3" length="8384020" type="audio/mpeg" />
+      <guid isPermaLink="false">02dc7a1165b2c5bc4e9ecdc46310714a</guid>
+      <pubDate>Fri, 01 May 2026 10:46:51 +0800</pubDate>
+      <itunes:duration>00:11:38</itunes:duration>
+      <itunes:episode>16</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
