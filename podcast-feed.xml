@@ -372,11 +372,36 @@
 ● 剪辑点技巧：匹配剪辑、跳切、J-Cut和L-Cut的妙用
 
 快来和我们一起，揭开剪辑节奏的神秘面纱，让你的观影体验从此大不同！</description>
-      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep16.mp3" length="8384020" type="audio/mpeg" />
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep16.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">02dc7a1165b2c5bc4e9ecdc46310714a</guid>
       <pubDate>Fri, 01 May 2026 10:46:51 +0800</pubDate>
-      <itunes:duration>00:11:38</itunes:duration>
+      <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>EP17: 电影调色——从《黑客帝国》的绿到《布达佩斯大饭店》的粉</title>
+      <description>电影调色：从《黑客帝国》的绿到《布达佩斯大饭店》的粉
+
+电影里的色彩，不仅仅是好看，它在用颜色讲故事，传递情绪。从《黑客帝国》的标志性绿色到《布达佩斯大饭店》的梦幻粉色，这些色彩背后藏着怎样的“魔法”？
+
+本期节目，我们一起揭秘电影调色这个“视觉配乐”的魅力。它不只是后期加滤镜，而是从色彩校正到创意调色的精妙艺术。我们将深入探讨色彩如何影响观众潜意识，甚至成为推动剧情发展的关键线索。
+
+我们还会聊聊电影调色的技术演进，从传统胶片时代的“光化学计时调色”到数字时代的“数字中间片”，以及AI在未来调色中扮演的角色。
+
+本期亮点
+● 电影调色不只是滤镜，它是用色彩讲故事的“视觉配乐”。
+● 色彩校正和创意调色：电影调色的两大核心阶段。
+● 《黑客帝国》的绿：如何用色彩区分虚拟与现实，强化哲学思辨。
+● 《布达佩斯大饭店》的粉：如何用色彩营造童话氛围，暗示时代变迁。
+● AI在电影调色中的应用：智能校正、风格迁移与内容感知调色。
+
+快来和我们一起，用全新的视角感受电影色彩的无限魅力吧！</description>
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep17.mp3" length="11430905" type="audio/mpeg" />
+      <guid isPermaLink="false">95f084eda7df880b9d32a9188b4d86ab</guid>
+      <pubDate>Tue, 05 May 2026 10:33:08 +0800</pubDate>
+      <itunes:duration>00:15:52</itunes:duration>
+      <itunes:episode>17</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
