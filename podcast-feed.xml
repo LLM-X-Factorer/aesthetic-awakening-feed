@@ -397,11 +397,36 @@
 ● AI在电影调色中的应用：智能校正、风格迁移与内容感知调色。
 
 快来和我们一起，用全新的视角感受电影色彩的无限魅力吧！</description>
-      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep17.mp3" length="11430905" type="audio/mpeg" />
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep17.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">95f084eda7df880b9d32a9188b4d86ab</guid>
       <pubDate>Tue, 05 May 2026 10:33:08 +0800</pubDate>
-      <itunes:duration>00:15:52</itunes:duration>
+      <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>EP18: 声音设计——你听不到的美学</title>
+      <description>EP18: 声音设计——你听不到的美学
+
+揭秘声音设计：无形的力量，如何塑造你的感知和情绪？
+
+你有没有想过，为什么有些电影让你身临其境，有些游戏让你沉浸其中，而有些产品却让你感到烦躁？这背后，可能都藏着“声音设计”的秘密。它不只是背景音乐和音效，而是一位无形的建筑师，用听觉元素搭建出一个完整的感官世界。
+
+本期节目，我们将深入探讨声音设计的魅力。从电影《敦刻尔克》中操控情绪的“谢泼德音调”，到宫崎骏动画里充满诗意的寂静，再到游戏、产品和品牌的听觉指纹，你会发现声音设计如何悄然影响着我们的体验，甚至成为叙事本身。
+
+本期亮点
+● 声音设计：无形的建筑师，构建听觉空间
+● 电影《敦刻尔克》：如何用“谢泼德音调”营造极致紧张感
+● 寂静的力量：大卫·林奇与宫崎骏电影中寂静的不同运用
+● 声音设计在产品、游戏和品牌中的应用：Intel Inside的听觉指纹
+● 好的声音设计如何提升用户体验，坏的设计又如何适得其反
+
+快来和我们一起，学会倾听那些“无形”的声音，发现它们带来的独特魅力吧！</description>
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep18.mp3" length="10538401" type="audio/mpeg" />
+      <guid isPermaLink="false">2d2884dfa73697014d3ba7a5da66b8d1</guid>
+      <pubDate>Fri, 08 May 2026 10:45:08 +0800</pubDate>
+      <itunes:duration>00:14:38</itunes:duration>
+      <itunes:episode>18</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
