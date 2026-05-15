@@ -447,11 +447,36 @@
 ● AI在片头设计中的机遇与挑战：从《秘密入侵》的争议看“人味儿”的重要性
 
 下次看剧，别再轻易跳过片头啦，一起来品味这些精彩的“黄金90秒”吧！</description>
-      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep19.mp3" length="9528324" type="audio/mpeg" />
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep19.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">661264a57b41c38bf17b65b92f308d8f</guid>
       <pubDate>Tue, 12 May 2026 10:43:30 +0800</pubDate>
-      <itunes:duration>00:13:14</itunes:duration>
+      <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>EP20: 动画的12条原则与美感直觉</title>
+      <description>动画为什么能“活”起来？揭秘迪士尼12条原则与美感直觉！
+
+你有没有好奇过，为什么有些动画角色栩栩如生，有些却僵硬死板？本期节目，我们将带你探索动画背后的“魔法秘籍”——迪士尼动画师总结的12条经典原则，以及动画师们如何运用“美感直觉”为作品注入灵魂。
+
+从“挤压与拉伸”赋予物体生命力，到“预备动作”制造悬念和力量，再到“跟随动作与重叠动作”模拟真实惯性，这些原则就像动画的语法，让画面中的角色动起来有重量、有弹性和有情感。我们还会聊到“慢进慢出”和“弧线运动”如何让动作更自然，以及“时间节奏”和“夸张手法”如何为动画增添趣味和冲击力。
+
+但光有原则还不够！动画的真正魅力，在于动画师们对“美感直觉”的运用。它不是天赋，而是基于对现实世界的观察、艺术规律的理解和经验积累。美感直觉指导动画师在运用原则时，做出符合美学、情感和风格统一的选择，让动画从技术正确走向艺术作品。
+
+本期亮点
+● 动画的12条原则如何赋予无生命物体“生命幻象”
+● 挤压与拉伸、预备动作、跟随与重叠动作的实际应用
+● 慢进慢出、弧线运动、时间节奏和夸张手法的魔法
+● “美感直觉”如何为动画注入灵魂，让作品从“流畅”到“有趣”
+● 宫崎骏、皮克斯、蜘蛛侠：平行宇宙等作品中的原则与直觉体现
+
+快来和我们一起，用全新的视角欣赏动画的动态之美吧！</description>
+      <enclosure url="https://github.com/LLM-X-Factorer/aesthetic-awakening-feed/releases/download/v1.0.0/ep20.mp3" length="9337199" type="audio/mpeg" />
+      <guid isPermaLink="false">bced7c7384e9f61025f280f60022bf4c</guid>
+      <pubDate>Fri, 15 May 2026 10:51:41 +0800</pubDate>
+      <itunes:duration>00:12:58</itunes:duration>
+      <itunes:episode>20</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
